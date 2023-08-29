@@ -23,7 +23,7 @@ main {
 section#login {
     background-color: white;
     width: 250px;
-    height: 400px;
+    height: 40vh;
     border-radius: 20px;
     position: absolute;
     top: 50%;
