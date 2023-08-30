@@ -74,7 +74,21 @@ form > input[type=submit]:hover {
 
 form > a.botao {
     display: block;
+    width: 100%;
+    height: 40px;
     text-align: center;
     text-decoration: none;
     font-size: 1em;
+    border: 1px solid #5ac7c3;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding-top: 7px;
+    color: #49a09d;
+    
+
 }
+
+form > a.botao > span {
+    font-size: 0.9em;
+}
+
