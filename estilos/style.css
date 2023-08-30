@@ -57,6 +57,17 @@ div#form  p {
     font-size: 0.8em;
 }
 
+div > label {
+    display: none;
+}
+
+form > div.campo {
+    background-color: #5f2c82;
+    height: 40px;
+    border-radius: 5px;
+    margin: 5px 0px;
+}
+
 form > input[type=submit] {
     display: block;
     font-size: 1em;
@@ -84,9 +95,9 @@ form > a.botao {
     margin-top: 5px;
     padding-top: 7px;
     color: #49a09d;
-    
-
 }
+
+
 
 form > a.botao > span {
     font-size: 0.9em;
