@@ -56,3 +56,25 @@ div#form  h1 {
 div#form  p {
     font-size: 0.8em;
 }
+
+form > input[type=submit] {
+    display: block;
+    font-size: 1em;
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #49a09d;
+    color: white;
+}
+
+form > input[type=submit]:hover {
+    background-color: #5ac7c3;
+}
+
+form > a.botao {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+}
