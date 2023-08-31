@@ -3,6 +3,7 @@
 @media screen and (min-width:768px) and (max-width:992px) {
     section#login {
         width: 80vw;
+        height: 300px;
     }
 
     div#img {
@@ -24,7 +25,7 @@
     }
 
     div#form  p {
-        font-size: 1.1em;
+        font-size: 1em;
     }
 
     
@@ -33,6 +34,7 @@
 @media screen and (min-width:992px) {
     section#login {
         width: 900px;
+        height: 335px;
     }
 
     div#img {
