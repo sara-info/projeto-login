@@ -67,7 +67,7 @@ form > div.campo {
     border-radius: 6px;
     margin: 5px 0px;
     cursor: pointer;
-    border: 4px solid #5f2c82;
+    border: 3px solid #5f2c82;
 }
 
 form > div.campo > span {
@@ -84,7 +84,7 @@ div.campo > input {
     height: 100%;
     border-radius: 6px;
     padding: 5px;
-    transform: translateY(-14px);
+    transform: translateY(-12px);
 }
 
 div.campo > input:focus-within {
